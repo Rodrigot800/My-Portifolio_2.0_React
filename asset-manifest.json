@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/My-Portifolio_2.0_React/static/css/main.3f14cc53.css",
-    "main.js": "/My-Portifolio_2.0_React/static/js/main.30539a5f.js",
-    "static/js/453.195f25b5.chunk.js": "/My-Portifolio_2.0_React/static/js/453.195f25b5.chunk.js",
-    "static/media/estudo.png": "/My-Portifolio_2.0_React/static/media/estudo.272226d0fe61455da613.png",
-    "static/media/foto.png": "/My-Portifolio_2.0_React/static/media/foto.f0a9fd08d77a03c3bb62.png",
-    "static/media/code.png": "/My-Portifolio_2.0_React/static/media/code.72c8bc6a79cacc3e7b27.png",
-    "static/media/programador.png": "/My-Portifolio_2.0_React/static/media/programador.b5e68571c6006c68bad2.png",
-    "static/media/insta.png": "/My-Portifolio_2.0_React/static/media/insta.589abff3145cc9b21c4e.png",
-    "static/media/VCR_OSD_MONO_1.001.ttf": "/My-Portifolio_2.0_React/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
-    "static/media/software-development.png": "/My-Portifolio_2.0_React/static/media/software-development.181fa76f810501d01f77.png",
-    "static/media/zap.png": "/My-Portifolio_2.0_React/static/media/zap.d85855f29ef0da9bf6fc.png",
-    "static/media/likedin.png": "/My-Portifolio_2.0_React/static/media/likedin.a55d9d4b6adbc3e240b5.png",
-    "static/media/github.png": "/My-Portifolio_2.0_React/static/media/github.c61d4b348b68f0a7b730.png",
-    "index.html": "/My-Portifolio_2.0_React/index.html",
-    "main.3f14cc53.css.map": "/My-Portifolio_2.0_React/static/css/main.3f14cc53.css.map",
-    "main.30539a5f.js.map": "/My-Portifolio_2.0_React/static/js/main.30539a5f.js.map",
-    "453.195f25b5.chunk.js.map": "/My-Portifolio_2.0_React/static/js/453.195f25b5.chunk.js.map"
+    "main.css": "/%7BMy-Portifolio_2.0_React%7D/static/css/main.b10287a8.css",
+    "main.js": "/%7BMy-Portifolio_2.0_React%7D/static/js/main.d4e537f4.js",
+    "static/js/317.29c39cbf.chunk.js": "/%7BMy-Portifolio_2.0_React%7D/static/js/317.29c39cbf.chunk.js",
+    "static/media/estudo.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/estudo.272226d0fe61455da613.png",
+    "static/media/foto.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/foto.f0a9fd08d77a03c3bb62.png",
+    "static/media/programador.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/programador.b5e68571c6006c68bad2.png",
+    "static/media/insta.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/insta.589abff3145cc9b21c4e.png",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/%7BMy-Portifolio_2.0_React%7D/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "static/media/software-development.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/software-development.181fa76f810501d01f77.png",
+    "static/media/zap.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/zap.d85855f29ef0da9bf6fc.png",
+    "static/media/likedin.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/likedin.a55d9d4b6adbc3e240b5.png",
+    "static/media/github.png": "/%7BMy-Portifolio_2.0_React%7D/static/media/github.c61d4b348b68f0a7b730.png",
+    "index.html": "/%7BMy-Portifolio_2.0_React%7D/index.html",
+    "main.b10287a8.css.map": "/%7BMy-Portifolio_2.0_React%7D/static/css/main.b10287a8.css.map",
+    "main.d4e537f4.js.map": "/%7BMy-Portifolio_2.0_React%7D/static/js/main.d4e537f4.js.map",
+    "317.29c39cbf.chunk.js.map": "/%7BMy-Portifolio_2.0_React%7D/static/js/317.29c39cbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f14cc53.css",
-    "static/js/main.30539a5f.js"
+    "static/css/main.b10287a8.css",
+    "static/js/main.d4e537f4.js"
   ]
 }
