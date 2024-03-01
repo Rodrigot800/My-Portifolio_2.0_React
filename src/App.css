@@ -126,7 +126,7 @@ main{
   display: block;
   margin: auto;
   width: 90vw;
-  max-width: 500px;
+  max-width: 350px;
   height: auto;
   transition: transform 4s ;
   transform: translate(-10px,-20px);

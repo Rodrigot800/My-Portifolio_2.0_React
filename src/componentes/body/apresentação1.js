@@ -1,6 +1,25 @@
 import React from "react";
 
+function periodoDoDia(s) {
+  var saudacao 
+    var dataAtual = new Date()
+    var hora = dataAtual.getHours()
+
+    if ( hora >= 6 && hora < 12 ) {
+        saudacao = `olá, bom dia!`
+    } else if (hora >= 12 && hora < 18) {
+        saudacao = `, boa tarde!`
+    }
+    else {
+        saudacao = `, boa noite!`
+    }
+    return s = saudacao
+}
+
 function Apresentação1(props) {
+
+  var saudacao
+
   return (
     <article id="p1">
       <div id="apresentação1">
@@ -12,7 +31,8 @@ function Apresentação1(props) {
             <h2>Rodrigo Peixoto</h2>
           </div>
         </div>
-        <h3 id="saudacao">olá!</h3>
+        
+        <h3 >olá{periodoDoDia(saudacao)}</h3>
         Sou desenvolvedor web e estudante de Engenharia de software.
         <div>
           <img

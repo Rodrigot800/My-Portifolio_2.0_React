@@ -1,8 +1,7 @@
 import React from "react";
-import codePng from "../../imagens/code.png";
 import Projeto from "./comp.projetos/projetos";
 
-function ApresentaçãoProjetos(props) {
+function ApresentaçãoProjetos() {
   return (
     <article id="p4">
       <div id="apresentação4">
@@ -34,7 +33,7 @@ function ApresentaçãoProjetos(props) {
           />
         </div>
         <div id="conteineimg">
-          <img id="imagem2" src={codePng} alt="" />
+          <img id="imagem2" src="https://github.com/Rodrigot800/My-Portifolio_2.0_React/blob/master/src/imagens/code2.png?raw=true" alt="" />
         </div>
       </div>
     </article>
