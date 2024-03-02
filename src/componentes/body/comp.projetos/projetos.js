@@ -12,11 +12,11 @@ function Projeto(props) {
        <div className="projet">
       <div className="imgprojet" style={divStyle} ></div> {/* Aplicando o estilo diretamente aqui */}
       <div id="textp1">
-        <h3>
+        
           <h2>{props.descriçãoProj}</h2>
-          {props.descrição}
+          <h4>{props.descrição}</h4>
 
-        </h3>
+        
         <div className="visualização-do-projeto">
           <h3>Visualizar Projeto</h3>
         </div>

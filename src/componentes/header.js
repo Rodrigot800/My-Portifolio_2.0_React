@@ -12,7 +12,12 @@ function Header(props) {
     <header>
       <nav>
         <img id="navimg1" src={logo} alt="" />
-        <i id="menu" className="material-symbols-outlined" onClick={toggleMenu}>
+        <i
+          id="menu"
+          className="material-symbols-outlined"
+          onClick={toggleMenu}
+          translate="no"
+        >
           menu
         </i>
       </nav>

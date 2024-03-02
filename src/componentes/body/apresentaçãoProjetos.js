@@ -10,8 +10,8 @@ function ApresentaçãoProjetos() {
           <Projeto
             urlProj=""
             img=""
-            descriçãoProj="Em Construção ..."
-            descrição=""
+            descriçãoProj=""
+            descrição="Em Construção ..."
           />
           <Projeto
             urlProj="https://rodrigot800.github.io/Calculadora/"
