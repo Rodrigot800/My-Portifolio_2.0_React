@@ -46,7 +46,7 @@ function Apresentação3() {
             descriçãoIcone="React"
           />
           <IconesDescrição
-            imgIcone="https://github.com/Rodrigot800/My_Portfolio/blob/main/imagem/git.png?raw=true"
+            imgIcone="https://github.com/Rodrigot800/My-Portifolio_2.0_React/blob/master/src/imagens/ReactLogo.png?raw=true"
             descriçãoIcone="Git"
           />
           <IconesDescrição

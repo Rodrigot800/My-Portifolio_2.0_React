@@ -1,6 +1,6 @@
 {
   "name": "portfolio-2.0",
-  "homepage": "https://{Rodrigot800}.github.io/{My-Portifolio_2.0_React}",
+  "homepage": "https://{Rodrigot800}.github.io/{My-Portifolio_2.0_React/}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
