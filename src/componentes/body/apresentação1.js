@@ -6,7 +6,7 @@ function periodoDoDia(s) {
     var hora = dataAtual.getHours()
 
     if ( hora >= 6 && hora < 12 ) {
-        saudacao = `olá, bom dia!`
+        saudacao = `, bom dia!`
     } else if (hora >= 12 && hora < 18) {
         saudacao = `, boa tarde!`
     }
