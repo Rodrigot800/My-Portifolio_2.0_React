@@ -1,4 +1,5 @@
 import React from "react";
+import MeuPdf from "../../docs/Curriculo - Rodrigo_Peixotos.pdf"
 
 function periodoDoDia(s) {
   var saudacao 
@@ -42,7 +43,7 @@ function Apresentação1(props) {
           />
         </div>
         <button className="button">
-          <a href="">
+          <a href={MeuPdf} target="_blank">
             <h3>Currículo</h3>
           </a>
         </button>
